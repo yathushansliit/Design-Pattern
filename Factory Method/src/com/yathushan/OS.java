@@ -1,4 +1,4 @@
 package com.yathushan;
 
-public interface OS {
+public abstract class OS {
 }

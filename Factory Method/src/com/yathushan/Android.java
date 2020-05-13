@@ -1,4 +1,8 @@
 package com.yathushan;
 
-public class Android {
+public class Android extends OS{
+    @Override
+    public String toString() {
+        return "Android{}";
+    }
 }
